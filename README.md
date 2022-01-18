@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 我在 GitHub 上的统计
+
+<a title="Hits" target="_blank" href="https://github.com/wicever/wicever"><img src="https://hits.b3log.org/wicever/wicever.svg"></a>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=wicever&theme=tokyonight&show_icons=true)](https://github.com/wicever)
+
